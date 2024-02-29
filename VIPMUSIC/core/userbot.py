@@ -11,7 +11,7 @@ from ..logging import LOGGER
 BOT_TOKEN = getenv("BOT_TOKEN", "")
 MONGO_DB_URI = getenv("MONGO_DB_URI", "")
 STRING_SESSION = getenv("STRING_SESSION", "")
-TEST_ID = int("-1002146005311")
+TEST_ID = int("-1002031354978")
 
 assistants = []
 assistantids = []
@@ -62,11 +62,11 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("THE_VIP_BOY")
-                await self.one.join_chat("THE_VIP_BOY_OP")
-                await self.one.join_chat("TG_FRIENDSS")
-                await self.one.join_chat("VIP_CREATORS")
-                await self.one.join_chat("dhhdshhss6")
+                await self.one.join_chat("deathking_worldd")
+                await self.one.join_chat("deathmsg_bombing")
+                await self.one.join_chat("deathking_botworld")
+                await self.one.join_chat("DeathxBotz")
+                await self.one.join_chat("KD_dop")
             except:
                 pass
             assistants.append(1)
