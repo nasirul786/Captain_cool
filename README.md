@@ -32,7 +32,7 @@
 
 
 <p align="center">
-  <img src="https://telegra.ph/file/ab4cdd287bd7ef2f0cf55.jpg ">
+  <img src="https://mallucampaign.in/images/img_1712669753.jpg ">
 </p>
 
 **𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [𝄟ॐ❥𝗧𝗚🍷𝗩𝗖🌷𝗕𝗢𝗧❥𝄟⃟🥀](https://t.me/DeathMusicrobot)**
